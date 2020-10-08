@@ -1,13 +1,13 @@
 <p style="background-image: url('https://scontent-xsp1-1.xx.fbcdn.net/v/t1.0-9/67313905_10219515380740723_847708016017932288_o.jpg?_nc_cat=103&_nc_sid=19026a&_nc_ohc=4QJVKGqtyfYAX-Z3yMd&_nc_ht=scontent-xsp1-1.xx&oh=9f3848284410f265f4623b3e06e16d94&oe=5FA6419C');width:100%;height:400px;background-position: 0 -20px;background-size:100%;color:#fff;display:flex;align-items:center;justify-content:center;background-repeat:no-repeat;">
-  <span style="text-align:center;">
-    <a href="https://thereal-website.com" style="color:#ffd700;font-size:70px;font-family: arial;text-align:center;">Darryl</a><br />
-    <span style="color:#ffd700;font-size:30px">
-      <a href="https://thereal-website.com" style="color:#ffd700">Website</a> •
-      <a href="https://stackoverflow.com/cv/darryl_rn" style="color:#ffd700">Stackoverflow</a> •
-      <a href="https://www.linkedin.com/in/darryl-rn/" style="color:#ffd700">LinkedIn</a> •
-      <img src="https://gpvc.arturio.dev/darrylsepeda" alt="profile views">
-    </span>
-  </span>
+</p>
+
+<h1 align="center"><a href="https://thereal-website.com" style="color:#ffd700;font-size:70px;font-family: arial;text-align:center;">Darryl</a><h1>
+
+<p align="center">
+  <a href="https://thereal-website.com" style="color:#ffd700">Website</a> •
+  <a href="https://stackoverflow.com/cv/darryl_rn" style="color:#ffd700">Stackoverflow</a> •
+  <a href="https://www.linkedin.com/in/darryl-rn/" style="color:#ffd700">LinkedIn</a> •
+  <img src="https://gpvc.arturio.dev/darrylsepeda" alt="profile views">
 </p>
 
 ---
