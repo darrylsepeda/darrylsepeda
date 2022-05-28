@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://thereal-website.com" style="color:#ffd700">Website</a> •
-  <a href="https://stackoverflow.com/cv/darryl_rn" style="color:#ffd700">Stackoverflow</a> •
   <a href="https://www.linkedin.com/in/darryl-rn/" style="color:#ffd700">LinkedIn</a> •
   <img src="https://gpvc.arturio.dev/darrylsepeda" alt="profile views">
 </p>
