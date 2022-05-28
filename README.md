@@ -18,8 +18,7 @@
 
 ---
 
-- 🔭 I’m currently working on ⚜️ [Wedbio - Wedding Biography](https://wedbio.com)
-- 🌱 I’m currently learning [Google Cloud Platform](https://google.qwiklabs.com/public_profiles/29ee8b2d-6347-43fe-87f4-03d5feb442a1)
+- 🌱 I’m currently learning [NFT & Metaverse](https://www.sandbox.game/en/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My name came from a robot movie in 1985.
 
