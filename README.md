@@ -10,6 +10,9 @@
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darrylsepeda&label=Profile%20views&color=0e75b6&style=flat" alt="darrylsepeda" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrylsepeda" alt="darrylsepeda" /></a> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrylsepeda&bg_color=001529&title_color=ffd700&text_color=ffd700&langs_count=10&layout=compact" />
