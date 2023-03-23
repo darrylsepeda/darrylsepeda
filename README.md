@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrylsepeda&theme=onedark" alt="darrylsepeda" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrylsepeda&theme=tokyonight&column=-1" alt="darrylsepeda" /></a>
 </p>
 
 <p align="center">
