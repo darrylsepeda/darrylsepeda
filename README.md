@@ -19,13 +19,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=darrylsepeda&show_icons=true&bg_color=001529&title_color=ffd700&text_color=ffd700&count_private=true" />
 </p>
 
----
+<!---
 
 - 🌱 I’m currently learning [NFT & Metaverse](https://www.sandbox.game/en/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My name came from a robot movie in 1985.
 
----
+--->
 
 <img src="footer.gif" width="100%" />
 <!-- I'm a [Software Engineer](https://wedbio.com) focusing on fullstack web applications.  -->
